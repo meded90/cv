@@ -431,7 +431,7 @@ header ul a {
 
 header ul a:hover, header ul a:focus {
   color: #675C5C;
-  font-weight: bold
+  text-decoration: none;
 }
 
 header ul a:active {
@@ -500,6 +500,7 @@ footer {
   color: #666;
   height: 30px;
   line-height: 28px;
+  border-radius: 3px;
 }
 
 .contact {
