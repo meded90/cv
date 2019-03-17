@@ -28,7 +28,7 @@
         "name": "at"
       },
       "setIdx": 0,
-      "setId": 5,
+      "setId": 3,
       "iconIdx": 0
     },
     {
@@ -54,14 +54,14 @@
       ],
       "properties": {
         "order": 1,
-        "id": 0,
+        "id": 1,
         "prevSize": 32,
         "code": 59650,
         "name": "github"
       },
-      "setIdx": 1,
-      "setId": 4,
-      "iconIdx": 0
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 1
     },
     {
       "icon": {
@@ -84,14 +84,41 @@
       ],
       "properties": {
         "order": 1,
-        "id": 0,
+        "id": 2,
         "name": "skype, social",
         "prevSize": 32,
         "code": 59649
       },
-      "setIdx": 3,
-      "setId": 2,
-      "iconIdx": 0
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M928 0h-832c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h832c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96zM384 832h-128v-448h128v448zM320 320c-35.4 0-64-28.6-64-64s28.6-64 64-64c35.4 0 64 28.6 64 64s-28.6 64-64 64zM832 832h-128v-256c0-35.4-28.6-64-64-64s-64 28.6-64 64v256h-128v-448h128v79.4c26.4-36.2 66.8-79.4 112-79.4 79.6 0 144 71.6 144 160v288z"
+        ],
+        "tags": [
+          "linkedin",
+          "brand",
+          "social"
+        ],
+        "defaultCode": 60105,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "linkedin, brand64",
+        "name": "linkedin",
+        "order": 2,
+        "id": 458,
+        "prevSize": 32,
+        "code": 60105
+      },
+      "setIdx": 2,
+      "setId": 1,
+      "iconIdx": 457
     },
     {
       "icon": {
@@ -118,8 +145,8 @@
         "prevSize": 28,
         "code": 59648
       },
-      "setIdx": 2,
-      "setId": 3,
+      "setIdx": 1,
+      "setId": 2,
       "iconIdx": 0
     }
   ],
