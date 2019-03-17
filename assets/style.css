@@ -593,3 +593,13 @@ footer {
   }
 
 }
+
+a .icon-youtube {
+  padding-left: 4px;
+  vertical-align: middle;
+}
+
+a:hover .icon-youtube {
+  text-decoration: none;
+
+}
